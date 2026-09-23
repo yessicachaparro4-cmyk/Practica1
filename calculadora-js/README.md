@@ -1,27 +1,3 @@
-# Calculadora básica en JavaScript
-
-Este proyecto realiza una calculadora básica que solicita dos números y calcula:
-
-- Suma
-- Resta
-- Multiplicación
-- División
-
-También solicita el nombre del usuario y muestra un saludo con los resultados.
-
-## Parte 2. Repaso rápido
-
-- 25 → number
-- "25" → string
-- true → boolean
-- "Hola" → string
-- 19.99 → number
-- false → boolean
-
-### ¿Por qué 25 y "25" no representan el mismo tipo de dato?
-
-Porque 25 es un número y "25" es una cadena de texto porque está entre comillas.
-
 ## Parte 3. Operaciones
 
 ```javascript
@@ -29,6 +5,7 @@ let suma = numero1 + numero2;
 let resta = numero1 - numero2;
 let multiplicacion = numero1 * numero2;
 let division = numero1 / numero2;
+```
 
 ## Parte 4. Pruebas
 
@@ -76,4 +53,4 @@ Se incluye una captura de la consola mostrando una prueba de la calculadora en f
 README.md
 calculadora.js
 evidencia-calculadora.png
-
+```
