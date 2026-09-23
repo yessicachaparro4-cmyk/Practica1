@@ -1,3 +1,42 @@
+## Parte 1. Preparación
+
+Para comprobar que JavaScript funciona correctamente, se ejecutó:
+
+```javascript
+console.log("Laboratorio iniciado");
+```
+
+Resultado esperado:
+
+```text
+Laboratorio iniciado
+```
+
+## Parte 2. Repaso rápido
+
+Ejemplo de una variable:
+
+```javascript
+let edad = 25;
+```
+
+- `let` → crea una variable.
+- `edad` → es el nombre de la variable.
+- `25` → es el valor almacenado.
+
+### Tipos de datos
+
+- 25 → number
+- "25" → string
+- true → boolean
+- "Hola" → string
+- 19.99 → number
+- false → boolean
+
+### ¿Por qué 25 y "25" no representan el mismo tipo de dato?
+
+Porque `25` es un número y `"25"` es una cadena de texto porque está entre comillas.
+
 ## Parte 3. Operaciones
 
 ```javascript
